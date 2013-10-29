@@ -20,7 +20,7 @@ Do it!
 
 ```
 git clone --recursive https://github.com/tstangenberg/vagrant-bamboo.git
-cd vagrant-jira
+cd vagrant-bamboo
 ```
 
 1. Start up and provision automatically all dependencies in the vm
